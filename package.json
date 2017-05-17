@@ -1,0 +1,23 @@
+{
+  "name": "chatrooms",
+  "version": "1.0.0",
+  "description": "聊天室",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "author": "Shawn",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^1.*",
+    "mime": "~1.3.6",
+    "socket.io": "~2.0.1"
+  }
+}
